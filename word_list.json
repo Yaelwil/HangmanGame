@@ -1,0 +1,10 @@
+{
+    "animals": ["cat", "dog", "cow", "elephant", "lion", "tiger", "giraffe", "kangaroo"],
+    "fruits": ["banana", "watermelon", "apple", "orange", "grape", "pineapple", "mango", "peach"],
+    "foods": ["pizza", "burger", "pasta", "sushi", "salad", "taco", "burrito", "sandwich"],
+    "colors": ["red", "blue", "green", "yellow", "black", "white", "purple", "orange", "pink"],
+    "vehicles": ["car", "bike", "truck", "bus", "airplane", "boat", "train", "helicopter"],
+    "countries": ["usa", "india", "china", "brazil", "germany", "france", "japan", "canada"],
+    "movies": ["avatar", "titanic", "inception", "thegodfather", "starwars", "thedarkknight", "interstellar"],
+    "sports": ["soccer", "basketball", "baseball", "tennis", "cricket", "hockey", "volleyball", "rugby"]
+}
